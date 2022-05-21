@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"></br><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+
+
 ![seungDuru's github stats](https://github-readme-stats.vercel.app/api?username=seungDuru&show_icons=true)
 [![seungDuru's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seungDuru&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seungDuru)
